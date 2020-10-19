@@ -1,2 +1,2 @@
 # projektmanagement
-Hier wird der gesamte Projektmanagemant festgehalten
+Hier wird das gesamte Projektmanagemant festgehalten
