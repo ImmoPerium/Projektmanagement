@@ -1,0 +1,26 @@
+discord für Teamkommunikation
+Heroku für Backend
+netlify für Frontend 
+clickUp Verwendet (für Gantt)
+
+
+immoscout Vergleich
+    12 - 14 Uhr
+
+DB design moduliert und aufgesetzt
+    (Heroku)
+
+MVC überlegt
+
+Abends von 18 - 22 Uhr 
+Aufgabenverteilung
+    Projektmanagment = Gregor
+    Backend = Sascha, Jan (etwas Lucas und Ilja)
+    Frontend = Ilja, Sascha
+    Design = Lucas (etwas Gregor)
+
+Logo Design angefangen
+immoperium.online gekauft
+MasterTask ausgearbeitet
+
+ 
