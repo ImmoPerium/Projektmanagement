@@ -1,6 +1,0 @@
-heute 19.10.2020
-    neue Repository erstellt,
-    Aufgaben verteilt
-    Branching Strategie (erstellt)
-    MeisterTasks
-

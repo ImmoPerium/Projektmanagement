@@ -1,0 +1,14 @@
+erledigt:
+
+IDE eingerichtet
+packages installiert
+Sync mit Github eingerichtet 
+
+mit KNEX Datenbank Initialisierung ertellt
+
+added data base configuration
+Initialized npm and .gitignore
+Added index.js and server.js
+added data base configuration
+Added more dependencies and initiallized npm scripts
+Testing runability

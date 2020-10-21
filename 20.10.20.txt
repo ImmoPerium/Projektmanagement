@@ -1,7 +1,8 @@
 discord für Teamkommunikation
 Heroku für Backend
 netlify für Frontend 
-clickUp Verwendet (für Gantt)
+Meistertask für Projektübersicht
+clickUp Verwendet für Gantt
 
 
 immoscout Vergleich
