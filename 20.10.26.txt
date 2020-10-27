@@ -1,0 +1,24 @@
+von 10:15 bis 11:40
+
+Wiederholung was bisher passiert ist
+    Backend läuft auf server und API ist adressierbar
+
+
+Logodesign und Webdesign diskussion
+PLZ API suche
+
+Frontend discussion:
+    sign Up: neues Fenster
+    log in : PopUp
+    Impressum
+    Userprofil
+    Immobilienangebot erstellen
+    Kontakt
+    Angebotsseite 
+    Suchseite
+    Immobilienseite
+
+    vielleicht: "Chatfunktion"
+
+
+bei Offtopic discussion eingegiffen 

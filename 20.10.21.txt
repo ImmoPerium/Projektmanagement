@@ -1,5 +1,4 @@
-erledigt:
-
+erledigt:   14 - 21 Uhr hauptsächlich Backend Team
 IDE eingerichtet
 packages installiert
 Sync mit Github eingerichtet 
