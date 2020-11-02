@@ -1,0 +1,12 @@
+17:00 bis 21:30  
+Backendteam
+    router für Real estate 
+    Authentifizierung
+
+MVP (Backend) steht
+
+API Doku ist noch offen
+weitere Schnittstellen sind noch offen 
+    
+  
+kleine Sitzung auf Heroku für User Authentifizierung vom Admin

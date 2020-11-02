@@ -1,10 +1,10 @@
-erledigt:   14 - 21 Uhr hauptsächlich Backend Team
+erledigt:   14 - 21 Uhr hauptsächlich Backend Team 
+    "extreme programming"
 IDE eingerichtet
 packages installiert
 Sync mit Github eingerichtet 
 
-mit KNEX Datenbank Initialisierung ertellt
-
+mit KNEX Datenbank Initialisierung erstellt
 added data base configuration
 Initialized npm and .gitignore
 Added index.js and server.js
