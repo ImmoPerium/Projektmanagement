@@ -1,0 +1,16 @@
+Montagstreffen
+    10:00-11:45 Uhr
+
+
+stand:
+Backend und Frontend hängen etwas 
+    z.B. Logik Filter fehlen
+    
+
+Design 
+    Immoanzeige erstellen ist noch offen
+
+es geht weiter mit absprachen was noch benötigt wird laut Stories 
+    bei Fragen an Sascha 
+
+leider noch nicht alle anwesend
