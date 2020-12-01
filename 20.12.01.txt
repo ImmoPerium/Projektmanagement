@@ -1,0 +1,15 @@
+neues Treffen 
+
+Frontend hat am Wochenende gearbeitet.
+Backend hat noch Fehler aber grob läuft
+Design fehlt User - Immoeinstellung
+
+Seite ist lauffähig
+manche Links gehen 
+Suche funktioniert
+    wird zu morgen fertig
+
+neuen Doodle für nächstes Treffen   
+
+Server zugriff orga wegen zu vielen Off Topic themen 
+
