@@ -1,0 +1,13 @@
+erledigt:   14 - 21 Uhr hauptsächlich Backend Team 
+    "extreme programming"
+IDE eingerichtet
+packages installiert
+Sync mit Github eingerichtet 
+
+mit KNEX Datenbank Initialisierung erstellt
+added data base configuration
+Initialized npm and .gitignore
+Added index.js and server.js
+added data base configuration
+Added more dependencies and initiallized npm scripts
+Testing runability

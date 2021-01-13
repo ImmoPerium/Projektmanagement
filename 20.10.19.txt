@@ -1,0 +1,14 @@
+heute 19.10.2020 12 - 14 Uhr
+    neue Repository erstellt,
+    Aufgaben verteilt
+    Branching Strategie (erstellt)
+    MeisterTasks
+
+Frontend:
+-Programmiersprache JavaScript
+-Framework/Library React.js
+
+Backend:
+-Node.js (JavaScript serverseitig)
+oder
+-Python

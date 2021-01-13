@@ -1,0 +1,17 @@
+Sonntagssession 
+Daten kommen aus DB
+Design noch nicht endgültig
+
+offen ist noch Immoseite für die Anzeige der jeweiligen Daten
+
+start Arbeit 2. Präsentation
+
+Anforderungen: 
+2. Präsentation der Arbeitsgruppenergebnisse. Hier wird erwartet, dass Sie
+präsentieren:
+• Lauffähiger Prototyp des core-Moduls sowie aller Apps
+• Zusammenspiel der Apps bei der Abbildung der betrieblichen Prozesse
+• Darstellung des Unternehmensdatenmodells
+• Status Projektplan und weiteres Vorgehen
+• Angaben zur vorhandenen bzw. noch geplanten Dokumentation
+• Review der bisherigen Projektarbeit, Teamzusammenspiel
